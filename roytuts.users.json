@@ -1,0 +1,55 @@
+[{
+  "_id": {
+    "$oid": "668bf02d558a6c02e0004bc8"
+  },
+  "first_name": "Alexey",
+  "last_name": "Subbotin",
+  "tags": [
+    "developer",
+    "admin"
+  ]
+},
+{
+  "_id": {
+    "$oid": "668bf3e8558a6c02e0004bc9"
+  },
+  "first_name": "Nikita",
+  "last_name": "Ivanov",
+  "tags": [
+    "developer",
+    "tester"
+  ]
+},
+{
+  "_id": {
+    "$oid": "668bf55f558a6c02e0004bca"
+  },
+  "first_name": "Mark",
+  "last_name": "Markov",
+  "tags": [
+    "programmer",
+    "admin"
+  ]
+},
+{
+  "_id": {
+    "$oid": "669e3231adbf7411951674f7"
+  },
+  "first_name": "Petr",
+  "last_name": "Semenov",
+  "tags": [
+    "shop assistant",
+    "admin"
+  ]
+},
+{
+  "_id": {
+    "$oid": "669e3642966b6d57c15ca785"
+  },
+  "first_name": "Alex",
+  "last_name": "Fedorov",
+  "tags": [
+    "seller",
+    "admin"
+  ]
+}]

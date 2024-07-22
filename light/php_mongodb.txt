@@ -1,0 +1,10 @@
+
+Скачать согласно версии PHP:
+https://pecl.php.net/package/mongodb
+Добавить в php.ini:
+extension=php_mongodb.dll
+
+
+Версия 'php_mongodb.dll' в этом каталоге 'light'
+соместима с PHP Version 7.3.6
+из комплекта ApacheFriends XAMPP Version 7.3.6
