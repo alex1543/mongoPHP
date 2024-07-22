@@ -74,7 +74,7 @@ function GetTR($resultMF) {
 $text = file_get_contents("select.html");
 $list = explode("\n", $text);
 
-for ($i=1; $i < Count($list); $i++) {
+for ($i=0; $i < Count($list); $i++) {
 	if (strpos($list[$i], "@tr") !== false) {
 		echo GetTR($resultMF);
 	} else {
