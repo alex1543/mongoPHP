@@ -28,12 +28,16 @@ try {
 				$iCol++;
 			}
 			if (gettype($data) == 'array') {
-				$resultMF[$iRow][$iCol]='';
+				$resultMF[$iRow][$iCol]=''; $iPos=0;
 				foreach ($data as $value) {
 				//	echo $value . '<br />';
 					
 					if (Count($data) > 1) {
 						$resultMF[$iRow][$iCol] .= ' '.$value;
+						$iPos++;
+						if (Count($data) == $iPos) {
+							$iCol++;
+						}
 					}
 					if (Count($data) == 1) {
 						$resultMF[$iRow][$iCol] = $value.Count($data);
