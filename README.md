@@ -12,3 +12,8 @@
 7. Совместимость версии PHP с версией MongoDB Driver определяется по ссылке: https://www.mongodb.com/docs/drivers/php-drivers/
 8. Если PHP устанавливается отдельно от XAMPP, то достаточно команды в терминале в каталоге с PHP: 'pecl install mongodb'.
 9. Если удалось установить библиотеку, то исследуйте примеры в каталоге 'light'.
+
+Под macOS необходимо выполнить команды:
+1. brew install php
+2. mkdir -p /opt/homebrew/lib/php/pecl
+3. sudo pecl install mongodb
