@@ -13,7 +13,9 @@
 8. Если PHP устанавливается отдельно от XAMPP, то достаточно команды в терминале в каталоге с PHP: 'pecl install mongodb'.
 9. Если удалось установить библиотеку, то исследуйте примеры в каталоге 'light'.
 
-Под macOS необходимо выполнить команды:
+Под macOS необходимо выполнить команды (запуск под macOS - доп. опция):
 1. brew install php
 2. mkdir -p /opt/homebrew/lib/php/pecl
 3. sudo pecl install mongodb
+4. Импортировать файл JSON: roytuts.users.json
+5. Выполнить скрипт: mac_php.sh
