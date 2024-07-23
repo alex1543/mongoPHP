@@ -19,3 +19,7 @@
 3. sudo pecl install mongodb
 4. Импортировать файл JSON: roytuts.users.json
 5. Выполнить скрипт: mac_php.sh
+
+Внешний вид в родном браузере Safari 17.5:
+
+<img width="796" alt="Снимок экрана 2024-07-23 в 07 06 30" src="https://github.com/user-attachments/assets/cdc72c66-3308-4b27-8587-fb17d99c7c0c">
