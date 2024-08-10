@@ -18,7 +18,7 @@
 2. mkdir -p /opt/homebrew/lib/php/pecl
 3. sudo pecl install mongodb
 4. Импортировать файл JSON: roytuts.users.json
-5. Выполнить скрипт: mac_php.sh (откроется файл 'out.html' в Google Chrome)
+5. Выполнить скрипт: mac_file_out.sh (откроется файл 'out.html' в Google Chrome)
 6. Выполнить другой скрипт: mac_php_serv.sh и открыть ссылку в любом браузере: http://localhost:8000 (откроется файл 'out.html' через сервер http на PHP)
 7. Для отдачи и запрета отдельных файлов используйте router.php и запускайте скрипт: mac_router.sh
 
