@@ -26,4 +26,4 @@
 
 <img width="796" alt="Снимок экрана 2024-07-23 в 07 06 30" src="https://github.com/user-attachments/assets/cdc72c66-3308-4b27-8587-fb17d99c7c0c">
 
-Под Windows допустима работа без Apache. Исследуйте скрипты: win_file_out.bat, win_php_serv.bat, win_router.bat (работа аналогичка, как под macOS).
+Под Windows допустима работа без Apache. Исследуйте скрипты: win_file_out.bat, win_php_serv.bat, win_router.bat (работа аналогична, как под macOS).
